@@ -45,4 +45,5 @@ for i in range(total_imagens):
 	doc.save(os.path.join(dir_name_docs, base_filename_docs + format_text))
 	print("\n")
 	
-
+print("End of the program.")
+print("\n")
