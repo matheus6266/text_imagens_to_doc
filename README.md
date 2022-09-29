@@ -1,1 +1,1 @@
-# text_imagens_to_doc
+# Copia de textos de imagens (.jpeg, .jpg, .png) para .doc
